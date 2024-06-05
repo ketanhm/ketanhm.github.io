@@ -5,7 +5,7 @@ date:  2016-08-06 12:20:26 -0700
 categories: jekyll update
 ---
 
-![Technology in Hospitality](/images/hotel-it.jpeg)
+![Technology in Hospitality](https://ketanhm.github.io/images/hotel-it.jpeg)
 
 Hotel companies need to align Marketing and IT Strategies to drive direct bookings (Search/Meta-Search, Social Media & Mobile), vis-a-vis bookings through Online Travel Agency (OTA Commissions) or retail travel agencies (GDSs).
 
