@@ -10,5 +10,5 @@ pin:
 comments: false
 ---
 
-![Online Sales Infographics](https://ketanhm.github.io/images/infographics-onlinesales.png){: w="700" h="400" }
+![Online Sales Infographics](https://ketanhm.github.io/images/infographic-onlinesales.png){: w="700" h="400" }
 
