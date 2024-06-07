@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Mitigaging Technology Risk"
+date:  2013-06-18 12:20:26 -0700
+categories: [Technology]
+tags: [revenue growth, cost optimization, risk reduction]
+description: 
+toc: false
+pin: 
+comments: false
+---
+
+With proliferation of technologies, markets, mobility (form factors, Application hosting choices), Business owning Applications, Enterprise faces increased risks on all fronts – Cyber, Strategic, Reputational, Operational, Financial, and Compliance
+
+![Risk Management](https://ketanhm.github.io/images/Risk.png){: w="700" h="400" }
+
+Broadly this area is called Governance, Risk Management and Compliance (GRC). When GRC role is functionally split, it is largely across following areas – Finance & Audit GRC, Technology GRC, and Legal GRC.
+
+Each function and its business managers need to make choices of technology/systems (ideally with CIO office involvement) to mitigate risks and ensure compliance. To understand the impact of adverse event, one needs to establish the link between technology risk scenarios and ultimate business impact. 
+
+There are several approaches that can help enterprise describe IT risk in business terms. 
+
+ISACA’s Risk IT framework does not prescribe which framework to use for risk evaluation. One of risk evaluation framework classifies four business (application) risks–Availability, Access, Accuracy, and Agility (4A Framework). Enterprise needs to also build (& continuously evolve) in 3 core disciplines – technology foundation, risk governance process, and risk aware culture. 
+
+NIST helps organizations to better understand and improve their management of cybersecurity risk. Cybersecurity Framework (CSF) provides guidance to industry, government agencies, and other organizations to manage cybersecurity risks -to better understand, assess, prioritize, and communicate its cybersecurity efforts.
+
+
+Executed well, enterprise builds effective risk management capability, and derives strategic business value.
