@@ -13,8 +13,8 @@ As a Senior Client Partner, I specialize in accelerating revenue, reducing cycle
 
 
 ## Certifications
-Sales Foundations for UI Path Partners
-AWS Certified Cloud Practioner
+UI Path - Sales Foundations Partners
+AWS - Certified Cloud Practioner
 
 
 
