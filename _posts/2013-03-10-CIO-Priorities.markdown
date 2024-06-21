@@ -27,4 +27,4 @@ Based on personal experience working with few enterprises, here are top 7 rdered
 
 **6. Find right balance between cost, quality, and speed**
 
-**7. Lower TCO**
+**7. IT Spend Reduction**

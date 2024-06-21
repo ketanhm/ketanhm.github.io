@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Cost Reduction"
+title:  "IT Spend Reduction"
 date:  2013-10-28 12:20:26 -0700
 categories: [Technology]
 tags: [revenue growth, cost optimization, risk reduction]
