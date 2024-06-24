@@ -15,7 +15,7 @@ Chief Information Officers (CIO) of leading enterprises IOs play a pivotal role 
 Based on personal experience working with few enterprises, here are top 7 rdered priorities. The order does change based on industry, enterprise & where in economic cycle their marketplace is.
 
 
-# Align to business functionality
+## 1. Align to business functionality
 
 Enterprises with better Business-IT alignment have IT leaders that are laser focused on strategy, business process execution, innovation, new product development, and compliance. More than 30% of their time is spent with their non-IT colleagues. 
 
@@ -36,14 +36,14 @@ Train team for cross functional Relationships -it is people management. IT folks
 e.g. Business relationship Managers (BRM) similar to IT vendor managers (VRM) who help get strategic value from suppliers
 
 
-**2. Achieve the agility that enterprise needs**
+## 2. Achieve the agility that enterprise needs**
 
-**3. Mitigate risk** 
+## 3. Mitigate risk** 
 
-**4. Raise performance levels**
+## 4. Raise performance levels**
 
-**5. Stay ahead of the curve**
+## 5. Stay ahead of the curve**
 
-**6. Find right balance between cost, quality, and speed**
+## 6. Find right balance between cost, quality, and speed**
 
-**7. IT Spend Reduction**
+## 7. IT Spend Reduction**
