@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "CIO Priorities - Combined posts"
+title:  "7 CIO Priorities - consolidated"
 date:  2013-12-10 12:20:26 -0700
 categories: [Technology]
 tags: [revenue growth, cost optimization, risk reduction]

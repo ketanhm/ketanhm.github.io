@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Top 7 CIO Priorities"
+title:  "Top 7 CIO Priorities - Summary"
 date:  2013-03-10 12:20:26 -0700
 categories: [Technology]
 tags: [revenue growth, cost optimization, risk reduction]
