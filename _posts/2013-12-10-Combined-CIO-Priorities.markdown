@@ -6,7 +6,7 @@ categories: [Technology]
 tags: [revenue growth, cost optimization, risk reduction]
 description: 
 toc: true
-pin: 
+pin: true
 comments: false
 ---
 
