@@ -7,7 +7,7 @@ tags: [revenue growth, cost optimization, risk reduction]
 description: 
 toc: true
 pin: true
-comments: false
+comments: true
 ---
 
 Chief Information Officers (CIO) of leading enterprises IOs play a pivotal role in shaping an organization’s digital future and driving innovation. 
