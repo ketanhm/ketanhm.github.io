@@ -7,7 +7,7 @@ tags: [retail, revenue growth, cost optimization]
 description: Becoming digital leads to 3 key business benefits - improved customer experience, data driven, agile and low cost
 toc: false
 pin: 
-comments: false
+comments: 
 ---
 
 ![Ecommerce need for Data](https://ketanhm.github.io/images/retail.jpeg){: w="700" h="400" }
