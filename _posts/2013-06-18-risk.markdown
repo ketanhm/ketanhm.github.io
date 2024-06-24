@@ -4,10 +4,10 @@ title:  "Mitigaging Technology Risk"
 date:  2013-06-18 12:20:26 -0700
 categories: [Technology]
 tags: [revenue growth, cost optimization, risk reduction]
-description: 
+description: By integrating risk management into their technology strategies, organizations can better navigate uncertainties and enhance their enterprise stability and success
 toc: false
 pin: 
-comments: false
+comments: true
 ---
 
 With proliferation of technologies, markets, mobility (form factors, Application hosting choices), Business owning Applications, Enterprise faces increased risks on all fronts – Cyber, Strategic, Reputational, Operational, Financial, and Compliance

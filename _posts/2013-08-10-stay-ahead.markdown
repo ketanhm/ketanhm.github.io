@@ -4,10 +4,10 @@ title:  "Staying ahead of the Curve"
 date:  2013-08-10 12:20:26 -0700
 categories: [Technology]
 tags: [revenue growth, cost optimization, risk reduction]
-description: 
+description: While keeping lights-on, CIO must strategically direct investments towards technologies that can deliver significant business value
 toc: false
 pin: 
-comments: false
+comments: true
 ---
 
 Gartner defines Bimodal as the practice of managing two separate but coherent styles of work: one focused on predictability; the other on exploration. 

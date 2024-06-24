@@ -4,10 +4,10 @@ title:  "Aligning Information Technology function with Business"
 date:  2013-04-14 12:20:26 -0700
 categories: [Technology]
 tags: [revenue growth, cost optimization, risk reduction]
-description: 
+description: Aligning information technology (IT) with business goals is crucial for maximizing efficiency, fostering innovation, and achieving strategic enterprise objectives.
 toc: false
 pin: 
-comments: false
+comments: true
 ---
 
 Enterprises with better Business-IT alignment have IT leaders that are laser focused on strategy, business process execution, innovation, new product development, and compliance. More than 30% of their time is spent with their non-IT colleagues. 
