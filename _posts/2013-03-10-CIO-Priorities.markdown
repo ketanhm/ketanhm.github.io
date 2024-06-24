@@ -2,7 +2,7 @@
 layout: post
 title:  "Top 7 CIO Priorities - Summary"
 date:  2013-03-10 12:20:26 -0700
-categories: [Technology]
+categories: [CxO]
 tags: [revenue growth, cost optimization, risk reduction]
 description: CIOs are focused on several key priorities to navigate their enterprise through rapidly evolving technology landscape and competiting business imperatives. These priorities reflect the need for CIOs to be adaptable and forward-thinking to succeed and communicate with their C-Suite/boards.
 toc: false
