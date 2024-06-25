@@ -17,7 +17,7 @@ Outsourced Product Engineering Services (PES) or Engineering Research and Develo
 
 ## Benefits of Outsourced PES
 
-![PES Benefits](https://ketanhm.github.io/images/pes%20driver%20and%20benefits.png){: w="700" h="400" }
+![PES Benefits](https://ketanhm.github.io/images/pes.png){: w="700" h="400" }
 
 
 
@@ -31,10 +31,10 @@ The Stage Gate Process, also known as the Phase Gate Process, navigates the prod
 
 ## Example of a New Device (e.g. server/storage) stage gate
 
-![New Device Launch Stage-gate](https://github.com/ketanhm/images/blob/main/device%20stage%20gate.png){: w="700" h="400" }
+![New Device Launch Stage-gate](https://github.com/ketanhm/images/blob/main/device-sg.png){: w="700" h="400" }
 
 ## Example of New Software launch stage gate
 
-![Software Launch Stage-gate](https://github.com/ketanhm/images/blob/main/software%20stage%20gate.png){: w="700" h="400" }
+![Software Launch Stage-gate](https://github.com/ketanhm/images/blob/main/software-sg.png){: w="700" h="400" }
 
 
