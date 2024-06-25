@@ -2,7 +2,7 @@
 layout: post
 title:  "Open Banking: Allowing consumers access to their financial records"
 date:  2021-01-10 12:20:26 -0700
-categories: [Digital, Technology, Data]
+categories: [Technology]
 tags: [bfsi, revenue growth]
 description: Allowing consumers access to their financial records will lead to digital transformation of BFSI industry
 toc: false

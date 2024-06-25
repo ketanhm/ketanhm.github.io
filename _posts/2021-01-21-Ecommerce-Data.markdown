@@ -2,7 +2,7 @@
 layout: post
 title:  "Retail: Why 'Data'​ is at the heart of ecommerce digital transformation?"
 date:  2021-01-21 12:20:26 -0700
-categories: [Technology, Data]
+categories: [Technology]
 tags: [retail, revenue growth, cost optimization]
 description: Becoming digital leads to 3 key business benefits - improved customer experience, data driven, agile and low cost
 toc: false
