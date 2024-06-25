@@ -7,7 +7,7 @@ tags: [bfsi, retail, hospitality, hitech-manufacturing]
 description: Becoming digital leads to 3 key business benefits - improved customer experience, data driven, agile and low cost
 toc: false
 pin: 
-comments: false
+comments: true
 ---
 
 ![DX: Benefits](https://ketanhm.github.io/images/dx.jpeg){: w="700" h="400" }

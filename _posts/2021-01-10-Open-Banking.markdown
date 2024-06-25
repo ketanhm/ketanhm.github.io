@@ -7,7 +7,7 @@ tags: [bfsi, revenue growth]
 description: Allowing consumers access to their financial records will lead to digital transformation of BFSI industry
 toc: false
 pin: 
-comments: false
+comments: true
 ---
 
 ![Open Banking](https://ketanhm.github.io/images/saving.png){: w="700" h="400" }

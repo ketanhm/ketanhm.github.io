@@ -7,7 +7,7 @@ tags: [hospitality, revenue growth]
 description: Using technology and data to drive NRevPAR improvements in hospitality industry
 toc: false
 pin: true
-comments: false
+comments: true
 ---
 
 ![Technology in Hospitality](https://ketanhm.github.io/images/hotel-it.jpeg){: w="700" h="400" }

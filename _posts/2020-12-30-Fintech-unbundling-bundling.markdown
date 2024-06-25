@@ -7,7 +7,7 @@ tags: [bfsi, revenue growth, cost optimization]
 description: Fintech got foothold by unbundling from BFSI, are they back to bundling horizontal for growth?
 toc: false
 pin: 
-comments: false
+comments: true
 ---
 
 ![Banking, Financial Services & Insurance](https://ketanhm.github.io/images/bankskyline.jpeg){: w="700" h="400" }

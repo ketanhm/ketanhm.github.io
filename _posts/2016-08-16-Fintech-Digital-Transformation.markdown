@@ -7,7 +7,7 @@ tags: [bfsi, revenue growth]
 description: Being digital helps fintech to disintermediate traditional BFSI providers
 toc: false
 pin: 
-comments: false
+comments: true
 ---
 
 ![Technology in Banking, Financial Services & Insurance](https://ketanhm.github.io/images/fintech.jpeg){: w="700" h="400" }
