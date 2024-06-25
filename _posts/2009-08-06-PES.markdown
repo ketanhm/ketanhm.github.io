@@ -23,7 +23,7 @@ Outsourced Product Engineering Services (PES) or Engineering Research and Develo
 
 ## PES impact on Product Life Cycle (S-curve)
 
-![S-Curve Impact](https://github.com/ketanhm/images/blob/main/s-curve.png){: w="700" h="400" }
+![S-Curve Impact](https://github.com/ketanhm/images/s-curve.png){: w="700" h="400" }
 
 ## Stage-gate in NPD
 
@@ -31,10 +31,10 @@ The Stage Gate Process, also known as the Phase Gate Process, navigates the prod
 
 ## Example of a New Device (e.g. server/storage) stage gate
 
-![New Device Launch Stage-gate](https://github.com/ketanhm/images/blob/main/device-sg.png){: w="700" h="400" }
+![New Device Launch Stage-gate](https://github.com/ketanhm/images/device-sg.png){: w="700" h="400" }
 
 ## Example of New Software launch stage gate
 
-![Software Launch Stage-gate](https://github.com/ketanhm/images/blob/main/software-sg.png){: w="700" h="400" }
+![Software Launch Stage-gate](https://github.com/ketanhm/images/software-sg.png){: w="700" h="400" }
 
 
