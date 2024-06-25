@@ -1,0 +1,40 @@
+---
+layout: post
+title:  "Product Engineering Services "
+date:  2009-08-06 12:20:26 -0700
+categories: [Technology]
+tags: [Product Engineering Services]
+description: PES or ER&D helps enterprises improve product development speed, decrease launch budgets and reduce time-to-volume
+toc: false
+pin: 
+comments: true
+---
+New product development (NPD) or introduction (NPI) involves bringing a new product, service, idea, or technology to the market. This process is typically managed by the engineering or product department within an enterprise.
+
+Product engineering services cover a wide range of activities, including the design, development, testing, and launch of innovative products. These can be physical products, such as biomedical devices, automotive components, computing hardware, industrial equipment, and energy solutions, or digital products like software and platforms. 
+
+Outsourced Product Engineering Services (PES) or Engineering Research and Development (ER&D) services are accelerating the transformation of ideas into market-ready products. Historically, large Original Equipment Manufacturers (OEMs) and Independent Software Vendors (ISVs) have outsourced activities like testing, validation, and compliance, while retaining core intellectual property (IP) development and product management roadmaps in-house. In the CIO organization (Information Technology), approximately 46-50% of activities may be outsourced, whereas in Product Engineering organization, this figure has been less than 20%. PES is becoming an increasingly popular offering from major Technology Services providers.
+
+## Benefits of Outsourced PES
+
+![PES Benefits](https://ketanhm.github.io/images/pes%20driver%20and%20benefits.png){: w="700" h="400" }
+
+
+
+## PES impact on Product Life Cycle (S-curve)
+
+![S-Curve Impact](https://github.com/ketanhm/images/blob/main/s-curve.png){: w="700" h="400" }
+
+## Stage-gate in NPD
+
+The Stage Gate Process, also known as the Phase Gate Process, navigates the product development journey through several sequential phases. The complexity of new product development (NPD) can stem from various factors, such as technological uncertainty, the number of components, systems and subsystems, and the involvement of multiple organizations. These factors can challenge the project team’s ability to manage evolving requirements. Stage Gate Process is well-suited for NPD, and Agile methodologies are leveraged within each phase. Product Engineering Services (PES) can be applied at any stage, ensuring an optimal balance of delivery locations, costs, and skill availability.
+
+## Example of a New Device (e.g. server/storage) stage gate
+
+![New Device Launch Stage-gate](https://github.com/ketanhm/images/blob/main/device%20stage%20gate.png){: w="700" h="400" }
+
+## Example of New Software launch stage gate
+
+![Software Launch Stage-gate](https://github.com/ketanhm/images/blob/main/software%20stage%20gate.png){: w="700" h="400" }
+
+
