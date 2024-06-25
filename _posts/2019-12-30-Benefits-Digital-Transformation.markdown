@@ -2,7 +2,7 @@
 layout: post
 title:  "Digital Transformation: Benefits"
 date:  2019-12-30 12:20:26 -0700
-categories: [Digital, Technology, Data]
+categories: [Technology]
 tags: [bfsi, retail, hospitality, hitech-manufacturing]
 description: Becoming digital leads to 3 key business benefits - improved customer experience, data driven, agile and low cost
 toc: false

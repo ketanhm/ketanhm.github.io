@@ -2,7 +2,7 @@
 layout: post
 title:  "Fintechs: Moving back to bundling from unbundling?"
 date:  2020-12-30 12:20:26 -0700
-categories: [Digital, Technology]
+categories: [Technology]
 tags: [bfsi, revenue growth, cost optimization]
 description: Fintech got foothold by unbundling from BFSI, are they back to bundling horizontal for growth?
 toc: false

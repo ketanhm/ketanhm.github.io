@@ -2,7 +2,7 @@
 layout: post
 title:  "Banking, Financical and Insurance: Competing in digital world"
 date:  2016-08-16 12:20:26 -0700
-categories: [Digital, Technology]
+categories: [Technology]
 tags: [bfsi, revenue growth]
 description: Being digital helps fintech to disintermediate traditional BFSI providers
 toc: false

@@ -2,7 +2,7 @@
 layout: post
 title:  "Hospitality IT: How focusing on Digital improves NRevPAR!"
 date:  2016-08-06 12:20:26 -0700
-categories: [Digital, Data]
+categories: [Technology]
 tags: [hospitality, revenue growth]
 description: Using technology and data to drive NRevPAR improvements in hospitality industry
 toc: false
