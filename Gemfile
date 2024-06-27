@@ -6,6 +6,7 @@ gem "jekyll-theme-chirpy", "~> 7.0", ">= 7.0.1"
 gem "tzinfo-data"
 gem "csv"
 gem "base64"
+# gem "jekyll-sitemap"
 
 group :test do
   gem "html-proofer", "~> 5.0"
