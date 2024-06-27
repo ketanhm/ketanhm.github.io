@@ -4,13 +4,13 @@ title:  "Discovering Computing history on a detour from Yellowstone National Par
 date:  2018-09-02 12:20:26 -0700
 categories: [Personal]
 tags: [tech-history]
-description: 
+description: History of computing is longer than the history of computing hardware and includes the history of methods intended for pen and paper or for chalk and slate, with or without the aid of tables.
 toc: false
 pin: 
 comments: false
 ---
 
-The American Computer & Robotics Museum in Bozeman, Montana features fascinating exhibits ranging from cuneiform tablets to the first personal computers and mainframes. In today’s cloud-driven world, it’s captivating to see these tangible computing machines and try grasp the rapid pace of amazing innovation.
+The American Computer & Robotics Museum [ACRM](https://acrmuseum.org/)in Bozeman, Montana features fascinating exhibits ranging from cuneiform tablets to the first personal computers and mainframes. In today’s cloud-driven world, it’s captivating to see these tangible computing machines and try grasp the rapid pace of amazing innovation.
 
 Exhibits from over 50-60 years ago the road that computing technology has travelled to reach current topics like Artificial Intelligence, Quantum Computing, Cracking the Enigma Code, and others.
 
