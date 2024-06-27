@@ -10,7 +10,7 @@ pin:
 comments: false
 ---
 
-The American Computer & Robotics Museum [ACRM](https://acrmuseum.org/)in Bozeman, Montana features fascinating exhibits ranging from cuneiform tablets to the first personal computers and mainframes. In today’s cloud-driven world, it’s captivating to see these tangible computing machines and try grasp the rapid pace of amazing innovation.
+The American Computer & Robotics Museum ([ACRM](https://acrmuseum.org/))in Bozeman, Montana features fascinating exhibits ranging from cuneiform tablets to the first personal computers and mainframes. In today’s cloud-driven world, it’s captivating to see these tangible computing machines and try grasp the rapid pace of amazing innovation.
 
 Exhibits from over 50-60 years ago the road that computing technology has travelled to reach current topics like Artificial Intelligence, Quantum Computing, Cracking the Enigma Code, and others.
 
