@@ -4,4 +4,4 @@ Disallow: /nogooglebot/
 User-agent: *
 Allow: /
 
-Sitemap: https://ketanhm.github.io/sitemap.xml
+Sitemap: https://ketanhm.github.io/_site/feed.xml
