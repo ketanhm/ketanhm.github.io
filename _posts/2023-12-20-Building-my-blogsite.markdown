@@ -4,7 +4,7 @@ title:  "Hosting a free website or blog using github pages"
 date:  2023-12-20 12:20:26 -0700
 categories: [Personal]
 tags: []
-description: Hosting free GitHub Pages blogsite on GitHub's github.io domain
+description: Hosting free blogsite on github.io domain
 toc: false
 pin: 
 comments: false
