@@ -22,7 +22,7 @@ Top performing organizations have high scores on all 4 metrics. Low performers h
 
 Keeping the size of change small for an application helps. It moves to delivery faster and also easier to recover from failure.
 
-[DORA](https://dora.dev/)runs a research program that and seeks to understand the capabilities that drive software delivery and operations performance. They ahve a [quick-check] (https://dora.dev/quickcheck/)survey on their website, that helps to assess your software delivery performance and recommend improvement areas. 
+[DORA](https://dora.dev/) runs a research program that and seeks to understand the capabilities that drive software delivery and operations performance. They have a [quick-check](https://dora.dev/quickcheck/) survey on their website, that helps to assess your software delivery performance and recommend improvement areas. 
 
 Good reads on modern software development process
 - Lean Enterprise: How High-Performance Organizations Innovate at Scale 
