@@ -22,7 +22,7 @@ Technology improved
 - Cost to Originate and Fulfill
 - Cost to Serve
 
-Mortgage Bankers Association has a good representation of USA Residential Mortgage Market Segments:
+Mortgage Bankers Association (MBA) has a good representation of USA Residential Mortgage Market Segments:
 ![US Residential Mortgage Market](https://ketanhm.github.io/images/residential.png){: w="700" h="400" }
 
 Residential Lending - Functional Overview:
