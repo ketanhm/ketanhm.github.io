@@ -1,0 +1,41 @@
+---
+layout: post
+title:  "Application Managed Services - improve application performance and achieve better business results"
+date:  2014-02-07 12:20:26 -0700
+categories: CxO]
+tags: [cost optimization]
+description: 70-75% of CIO Spend goes towards infrastructure and transaction (keeping ligts-on). Utilizing AMS Outsourcing, $$$ can be saved and used to fund strategic initiatives, innovation projects
+toc: false
+pin: 
+comments: 
+---
+Typical organization spends 70%-75% of its technology budget on 2 areas: Infrastructure technology (foundational) and transaction technology (business operations, running processes).
+
+See my earlier [blog](https://ketanhm.github.io/posts/balance-time-cost-quality/)
+
+Service Providers offer Applications Managed Services(AMS) to maintaining client applications and technology infrastructure, including Enterprise Resource Planning (ERP) software, legacy systems, portals and middleware. They may even providing hosting technology infrastructure. Clients benefit from our knowledge of best practice processes, gaining cost reductions and optimized operations. Clients has the choice and flexibility of outsourcing support for select infrastructure, applications, or an entire application portfolio.
+
+Using a services-based, fixed price model, AMS helps clients shift application investments from maintenance to innovation, providing predictable, cost-effective services that can adjust with changing business needs.  
+
+Steps involved in AMS Outsourcing
+- Assess and align in-scope applications
+- Transition applications responsibility
+- Transform the support organization, select services and applications to a managed environment
+- Provide ongoing management
+
+![AMS Steps](https://ketanhm.github.io/images/ams-steps.png){: w="700" h="400" }
+
+
+Benefits to client:
+- Reduced spend
+- Free up staff for strategic/innovation projects
+- Increased visibility into the applications portfolio and its alignment to business priorities
+- Scalability to manage capacity surges and drops, Skillsets availability
+- Improves service reliability, with rigorous service levels, business process KPIs, and automation 
+
+Service Desk for managing IT-as-a-service:
+AMS is optimized using global delivery model, customized for unique client needs with a blend of onsite, onshore, nearshore delivery. It incorporates the industry-proven Information Technology Information Library (ITIL) framework. ITIL provides a framework that gives IT teams the flexibility and stability they need to support the business successfully. IT service management (ITSM), is how supplier manages the end-to-end delivery of contracted services to its client. 
+
+[Service Desk in AMS](https://ketanhm.github.io/images/servicedesk.png){: w="700" h="400" }
+
+
