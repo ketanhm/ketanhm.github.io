@@ -2,7 +2,7 @@
 layout: post
 title:  "Staying ahead of the Curve"
 date:  2013-08-10 12:20:26 -0700
-categories: [CxO]
+categories: [CIO]
 tags: [revenue growth, cost optimization,]
 description: While keeping lights-on, CIO must strategically direct investments towards technologies that can deliver significant business value
 toc: false

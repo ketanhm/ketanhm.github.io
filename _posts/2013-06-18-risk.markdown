@@ -2,7 +2,7 @@
 layout: post
 title:  "Mitigaging Technology Risk"
 date:  2013-06-18 12:20:26 -0700
-categories: [CxO]
+categories: [CIO]
 tags: [risk reduction]
 description: By integrating risk management into their technology strategies, organizations can better navigate uncertainties and enhance their enterprise stability and success
 toc: false

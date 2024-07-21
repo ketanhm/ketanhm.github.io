@@ -3,7 +3,7 @@ layout: post
 title:  "Delivering software with high agility and quality – how to measure?"
 date:  2018-03-05 12:20:26 -0700
 categories: [Technology]
-tags: []
+tags: [revenue growth]
 description:  Technology, people, and process capabilities drive higher software delivery and organizational performance
 toc: false
 pin: 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Raise IT Performance Levels"
 date:  2013-07-08 12:20:26 -0700
-categories: [Technology]
+categories: [CIO]
 tags: [cost optimization, risk reduction]
 description: Raising technology performance is crucial for enhancing productivity, efficiency, and overall business success
 toc: false

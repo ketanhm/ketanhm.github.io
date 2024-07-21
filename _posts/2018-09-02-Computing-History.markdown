@@ -3,7 +3,7 @@ layout: post
 title:  "Discovering Computing history on a detour from Yellowstone National Park"
 date:  2018-09-02 12:20:26 -0700
 categories: [Personal]
-tags: [tech-history]
+tags: []
 description: History of computing is longer than the history of computing hardware and includes the history of methods intended for pen and paper or for chalk and slate, with or without the aid of tables.
 toc: false
 pin: 

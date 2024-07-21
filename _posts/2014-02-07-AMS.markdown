@@ -2,7 +2,7 @@
 layout: post
 title:  "Application Managed Services - improve application performance and achieve better business results"
 date:  2014-02-07 12:20:26 -0700
-categories: CxO]
+categories: [CIO]
 tags: [cost optimization]
 description: 70-75% of CIO Spend goes towards infrastructure and transaction (keeping ligts-on) budgets. Utilizing AMS Outsourcing, dollars can be saved and used to fund strategic initiatives, innovation projects.
 toc: false

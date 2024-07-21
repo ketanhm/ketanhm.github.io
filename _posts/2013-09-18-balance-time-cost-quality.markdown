@@ -2,7 +2,7 @@
 layout: post
 title:  "Finding balance between cost, quality and time"
 date:  2013-09-18 12:20:26 -0700
-categories: [CxO]
+categories: [CIO]
 tags: [revenue growth, cost optimization, risk reduction]
 description: Run-Grow-Transform (RGT) Model is a framework designed to help CIOs and IT leaders align their IT functions with business strategy
 toc: false
