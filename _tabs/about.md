@@ -4,10 +4,23 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+As a Senior Client leveraging cutting-edge digital technologies, I help client initiatives to accelerate revenue growth, shorten cycle , reduce costs, and meet regulatory compliance.
 
-As a Senior Client Partner, I specialize in accelerating revenue, reducing cycle times, optimizing costs, and ensuring regulatory compliance through cutting-edge digital and AI technologies. I excel in trusted consulting, fostering and managing executive customer relationships, and delivering comprehensive digital transformation programs. With a deep understanding of industry contexts and technology, I craft solutions that align with clients’ objectives. Additionally, I have a proven track record in leading Delivery Assurance and managing teams effectively.
+I excel in trusted consulting, nurturing and managing executive customer relationships, and delivering comprehensive digital transformation programs.
+
+
+With a deep understanding of industry contexts and technology, I lead crafting solutions that align with clients’ objectives. 
+
+**Ensuring partnerships succeeds**
+
+**Keeping the client focus:** Be client advocate to internal leadership(suppliers’) and keep business focus. Sync to client objectives. Be the bridge between client requirement and delivery organization
+
+**Being Agile:** Adapt to changing requirement within contractually limits. Don’t underestimate technology (new) challenges. Factor time and resources for experimentation on new tech/tools
+
+**Build Team and lead for Success:** Make case to staff right skilled resources(global, matrixed org), align teams to client objectives/tech requirements, plan for unexpected personnel changes/backups
+
+**Keep an oversight on Project/Program:** Do proactive planning, ensure not overcommitting / unrealistic schedules. Bring to client notice any plan deviations (& mitigation steps) as soon as identified
+
 
 ## Trainings
 - Development Dimension International - Leadership Development
