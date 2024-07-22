@@ -6,13 +6,13 @@ categories: [CIO]
 tags: [revenue growth, cost optimization, risk reduction]
 description: 
 toc: true
-pin: 
+pin:  
 comments: true
 ---
 
 Chief Information Officers (CIO) of leading enterprises IOs play a pivotal role in shaping an organization’s digital future and driving innovation. 
 
-Based on personal experience working with few enterprises, here are top 7 rdered priorities. The order does change based on industry, enterprise & where in economic cycle their marketplace is.
+Based on personal experience working with few enterprises, here are top 7 ordered priorities. The order does change based on industry, enterprise & where in economic cycle their marketplace is.
 
 
 ## 1. Align to business functionality

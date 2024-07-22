@@ -3,7 +3,7 @@ layout: post
 title:  "Product Engineering Services "
 date:  2009-08-06 12:20:26 -0700
 categories: [Technology]
-tags: [Product Engineering Services]
+tags: [Product Engineering Services, hitech-manufacturing]
 description: PES or ER&D helps enterprises improve product development speed, decrease launch budgets and reduce time-to-volume
 toc: false
 pin: 
