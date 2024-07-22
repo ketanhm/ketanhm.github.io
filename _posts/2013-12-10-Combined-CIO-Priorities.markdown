@@ -6,7 +6,7 @@ categories: [CIO]
 tags: [revenue growth, cost optimization, risk reduction]
 description: 
 toc: true
-pin: true
+pin: 
 comments: true
 ---
 

@@ -6,7 +6,7 @@ categories: [Technology]
 tags: [hospitality, revenue growth]
 description: Using technology and data to drive NRevPAR improvements in hospitality industry
 toc: false
-pin: true
+pin:
 comments: true
 ---
 
