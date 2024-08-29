@@ -11,11 +11,11 @@ comments:
 ---
 Compared to California’s more famous routes like the Pacific Coast Highway or the Redwood Highway, Route 395 is a hidden gem. Though less traveled, it offers an abundance of scenic beauty and activities: ghost towns, filming locations, ski and lake resorts, tufa formations, and the seasonal Tioga Pass leading to Yosemite National Park. This picturesque route traces the eastern slope of the Sierra Nevada, promising a memorable journey.
 
-State Route 14 links Los Angeles to the northern Mojave Desert, passing through Angeles National Forest. The northern segment, from Palmdale to US 395, is officially named the Aerospace Highway. This area is base to Edwards AFB, Mojave Air and Space Port, aerospace design firms, flight test and research companies, and the wind industry. It also features an airport (IATA: MJV) - the facility used for first horizontal launch of reusable spacecraft - SpaceShipOne. 
+State Route 14 links Los Angeles to the northern Mojave Desert, passing through Angeles National Forest. The northern segment, from Palmdale to US 395, is officially named the **Aerospace Highway**. This area is base to Edwards AFB, **Mojave Air and Space Port**, aerospace design firms, flight test and research companies, and the wind industry. It also features an airport (IATA: MJV) - the facility used for first horizontal launch of reusable spacecraft - SpaceShipOne. 
 
-While most of these facilities are restricted, the most intriguing sight from the highway is the Airplane Boneyards—a storage area for commercial airliners where planes are retired due to space availability and the dry, low-humidity desert conditions. As you pass Mojave, you can see the Tehachapi Pass wind farm on the left. This is one of the first large-scale wind farms in the U.S., boasting over 4,700 wind turbines.
+While most of these facilities are restricted, the most intriguing sight from the highway is the **Airplane Boneyards** — a storage area for commercial airliners where planes are retired due to space availability and the dry, low-humidity desert conditions. As you pass Mojave, you can see the **Tehachapi Pass wind farm** on the left. This is one of the first large-scale wind farms in the U.S., boasting over 4,700 wind turbines.
 
-Before reaching US 395, you’ll pass through the scenic Red Rock Canyon State Park, known for its stunning cliffs, buttes, and spectacular rock formations.
+Before reaching US 395, you’ll pass through the scenic **Red Rock Canyon State Park**, known for its stunning cliffs, buttes, and spectacular rock formations.
 
 ![Route 395 Collage](https://ketanhm.github.io/images/us395-collage.jpeg){: w="700" h="400" }
 
