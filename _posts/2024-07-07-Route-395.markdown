@@ -1,0 +1,44 @@
+---
+layout: post
+title:  "US 395 - a drive along California Scenic Route"
+date:  2024-07-07 12:20:26 -0700
+categories: [Personal]
+tags: []
+description: US Route 395, running along the eastern side of the Sierra Nevada, traverses both arid deserts and alpine mountains, with chiseled summits soaring 10,000 feet above sea level.
+toc: false
+pin: 
+comments: 
+---
+
+
+
+![Route 395](https://ketanhm.github.io/images/us395.png){: style="float: left" }
+Compared to California’s more famous routes like the Pacific Coast Highway or the Redwood Highway, Route 395 is a hidden gem. Though less traveled, it offers an abundance of scenic beauty and activities: ghost towns, filming locations, ski and lake resorts, tufa formations, and the seasonal Tioga Pass leading to Yosemite National Park. This picturesque route traces the eastern slope of the Sierra Nevada, promising a memorable journey.
+
+State Route 14 links Los Angeles to the northern Mojave Desert, passing through Angeles National Forest. The northern segment, from Palmdale to US 395, is officially named the Aerospace Highway. This area is base to Edwards AFB, Mojave Air and Space Port, aerospace design firms, flight test and research companies, and the wind industry. It also features an airport (IATA: MJV) - the facility used for first horizontal launch of reusable spacecraft - SpaceShipOne. 
+
+While most of these facilities are restricted, the most intriguing sight from the highway is the Airplane Boneyards—a storage area for commercial airliners where planes are retired due to space availability and the dry, low-humidity desert conditions. As you pass Mojave, you can see the Tehachapi Pass wind farm on the left. This is one of the first large-scale wind farms in the U.S., boasting over 4,700 wind turbines.
+
+Before reaching US 395, you’ll pass through the scenic Red Rock Canyon State Park, known for its stunning cliffs, buttes, and spectacular rock formations.
+
+![Route 395 Collage](https://ketanhm.github.io/images/US395-collage.jpeg){: w="700" h="400" }
+
+**Mammoth Lakes**
+Our base for the trip was Mammoth Lakes, a town nestled in California’s Sierra Nevada mountains. It’s famous for Mammoth Mountain, which offers skiing during the season, and the [Devils Postpile National Monument](https://www.nps.gov/depo/index.htm), known for its basalt columns and the impressive Rainbow Falls. Unfortunately, we had to skip these attractions due to road construction and shuttle restrictions on riding with unmuzzled pet. 
+
+**[Yosemite National Park](https://www.nps.gov/yose/index.htm)**
+Tioga Road (Highway 120) ascends to an elevation of around 10,000 feet above the valley, offering breathtaking views and pristine lakes. After winding through the enchanting Tuolumne Meadows, it cuts through the mountains at Tioga Pass. This high country is nearly inaccessible in winter due to heavy snowfall and frozen rivers. Olmsted Point provides an iconic view of the majestic Half Dome. With binoculars, we could see a line of hikers taking the cable route to the top of the dome. Each visit to Yosemite National Park leaves one more in awe of its granite cliffs, waterfalls, and ancient sequoias.
+
+**[Bodie State Historic Park](https://www.parks.ca.gov/?page_id=509)**
+Bodie is one of the best-preserved examples of a California gold mining ghost town. At its peak, Bodie even had its own bank.
+
+**[Mono Lake Tufa State Natural Reserve](https://www.parks.ca.gov/?page_id=514)**
+Mono Lake is a majestic body of water spanning about 65 square miles. This ancient lake, over 1 million years old, is dotted with limestone formations known as “tufa towers.” These calcium-carbonate spires and knobs are formed by the interaction of freshwater springs and the alkaline lake water.
+
+**[Ancient Bristlecone Pine Forest](https://www.fs.usda.gov/recarea/inyo/recarea/?recid=70821)**
+High in the White Mountains, at an elevation of around 10,000 feet, you’ll find some of the oldest living trees on Earth, dating back over 4,000 years. These ancient trees are characterized by their weathered, twisted forms and beautifully colored wood.
+
+**[Manzanar National Historic Site](https://www.nps.gov/manz/index.htm)**
+A war relocation center - Remembering Manzanar, gives a sense of the place and its past, and a glimpse into a time when American citizens were exiled because of their ancestry.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Spo1Khmp2U4?si=1Umm5lithjYvgAhI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
