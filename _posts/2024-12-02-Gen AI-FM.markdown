@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Generative Artificial Intelligence and Foundation Models"
-date:  2024-12-02
+date:  2024-12-02 12:20:26 -0700
 categories: [Technology]
 tags: [revenue growth, cost optimization]
 description: Newer applications leverage foundation models to enable Gen AI capabilities into core workflows, driving automation, and increasing productivity
