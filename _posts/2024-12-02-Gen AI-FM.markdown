@@ -1,14 +1,14 @@
 ---
 layout: post
 title:  "Generative Artificial Intelligence and Foundation Models"
-date:  2024-12-02 12:20:26 -0700
+date:  2024-12-02
 categories: [Technology]
 tags: [revenue growth, cost optimization]
 description: Newer applications leverage foundation models to enable Gen AI capabilities into core workflows, driving automation, and increasing productivity
 toc: false
 pin: 
 comments: true
-published: true
+published: 
 ---
 
 **Artificial Intelligence** (AI), **Generative Artificial Intelligence** (Gen AI), **Machine Learning** (ML), **Deep Learning** have emerged as the most buzzed-about technologies in today’s business landscape. These terms are frequently used interchangeably. However there is a significant distinction.
