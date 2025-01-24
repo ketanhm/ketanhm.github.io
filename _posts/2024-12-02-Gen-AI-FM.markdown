@@ -25,6 +25,21 @@ Gen AI approaches
 ## Foundation Models (FMs)
 Recent advancements have led to generative models capable of producing high-quality, realistic images, music, and text. These breakthroughs are largely due to FMs, a type of LLM that learns from extensive datasets. These FMs are pre-trained on massive datasets through self-supervised learning methods. They are referred to as "foundation" models because they provide a robust base for downstream applications by learning generalizable patterns and representations. Typically, FM consist of numerous layers and parameters, enabling them to capture complex relationships between input data and output predictions.
 
+| Company | FM |
+|:--------|:--------|
+| AI21 Labs | Jamba |
+| Alibaba Cloud | Qwen |
+| Anthropic | Claude  |
+| Amazon | Nova |
+| Cohere | Command |
+| Google | Gemini |
+| Meta | Llama |
+| Microsoft | Phi |
+| Mistral AI_ | Mistral |
+| OpenAI | GPT |
+| Anthropic | Claude 2.0 |
+| Stability AI | Stable Diffusion |
+
 ## Popular FMs
 Foundation models (FMs) are regularly fine-tuned and updated multiple times a year to enhance their performance. Based on how-accessed, they can be "open" foundation models (accessible to the public, often with open-source code), "closed" foundation models (restricted access, proprietary code), and "limited" foundation models (partially accessible, with controlled usage through APIs or specific access tiers).
 
