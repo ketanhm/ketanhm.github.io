@@ -8,7 +8,7 @@ description: Newer applications leverage foundation models to enable Gen AI capa
 toc: false
 pin: 
 comments: 
-published: false
+published: true
 ---
 
 **Artificial Intelligence** (AI), **Generative Artificial Intelligence** (Gen AI), **Machine Learning** (ML), **Deep Learning** have emerged as the most buzzed-about technologies in today’s business landscape. These terms are frequently used interchangeably. However there is a significant distinction.
