@@ -8,7 +8,6 @@ description: Newer applications leverage foundation models to enable Gen AI capa
 toc: false
 pin: 
 comments: true
-published: 
 ---
 
 **Artificial Intelligence** (AI), **Generative Artificial Intelligence** (Gen AI), **Machine Learning** (ML), **Deep Learning** have emerged as the most buzzed-about technologies in today’s business landscape. These terms are frequently used interchangeably. However there is a significant distinction.
@@ -28,8 +27,6 @@ Recent advancements have led to generative models capable of producing high-qual
 
 ## Popular FMs
 Foundation models (FMs) are regularly fine-tuned and updated multiple times a year to enhance their performance. Based on how-accessed, they can be "open" foundation models (accessible to the public, often with open-source code), "closed" foundation models (restricted access, proprietary code), and "limited" foundation models (partially accessible, with controlled usage through APIs or specific access tiers).
-
-
 
 
 ## Enterprise Use Case/s
