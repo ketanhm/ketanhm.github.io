@@ -7,7 +7,7 @@ tags: [revenue growth, cost optimization]
 description: Newer applications leverage foundation models to enable Gen AI capabilities into core workflows, driving automation, and increasing productivity
 toc: false
 pin: 
-comments: 
+comments: true
 published: true
 ---
 
