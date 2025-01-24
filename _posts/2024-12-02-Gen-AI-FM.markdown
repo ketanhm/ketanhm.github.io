@@ -29,20 +29,7 @@ Recent advancements have led to generative models capable of producing high-qual
 ## Popular FMs
 Foundation models (FMs) are regularly fine-tuned and updated multiple times a year to enhance their performance. Based on how-accessed, they can be "open" foundation models (accessible to the public, often with open-source code), "closed" foundation models (restricted access, proprietary code), and "limited" foundation models (partially accessible, with controlled usage through APIs or specific access tiers).
 
-| Company | FM | Web Link |
-|:--------|:--------|:--------|
-| AI21 Labs   | Jamba   | ![](https://ai21.com/jamba/) |
-| Alibaba Cloud | Qwen    | ![](https://www.alibabacloud.com/product/qwen) |
-| Anthropic   | Claude  | ![](https://anthropic.com/claude/) |
-| Amazon    | Nova | ![](https://aws.amazon.com/ai/generative-ai/nova) |
-| Cohere    | Command  | ![](https://cohere.ai/command) |
-| Google | Gemini | ![](https://ai.google/get-started/our-models/)  |
-| Meta    | Llama    | ![](https://ai.meta.com/resources/models-and-libraries/#models) |
-| Microsoft | Phi  | ![](https://ai.azure.com/explore/models?selectedCollection=phi) |
-| Mistral AI_ | Mistral |  ![](https://docs.mistral.ai/getting-started/models/models_overview/) |
-| OpenAI   | GPT  | ![](https://platform.openai.com/docs/models) |
-| Anthropic   | Claude 2.0 | ![](https://anthropic.com/claude-2.0/) |
-| Stability AI | Stable Diffusion | ![](https://stability.ai/stable-image) |
+
 
 
 ## Enterprise Use Case/s
