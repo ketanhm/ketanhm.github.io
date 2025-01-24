@@ -1,0 +1,84 @@
+---
+layout: post
+title:  "Generative Artificial Intelligence and Foundation Models"
+date:  2024-12-02 12:20:26 -0700
+categories: [Technology]
+tags: [revenue growth, cost optimization]
+description: Newer applications leverage foundation models to enable Gen AI capabilities into core workflows, driving automation, and increasing productivity
+toc: false
+pin: 
+comments: 
+published: false
+---
+
+**Artificial Intelligence** (AI), **Generative Artificial Intelligence** (Gen AI), **Machine Learning** (ML), **Deep Learning** have emerged as the most buzzed-about technologies in today’s business landscape. These terms are frequently used interchangeably. However there is a significant distinction.
+
+![Artificial Intelligence](https://ketanhm.github.io/images/ai.jpg){: w="700" h="400" }
+
+## Generative Artificial Intelligence (Gen AI)
+Gen AI helps to create new content such as text, images, videos, audio, or software code in response to a user's request. It harnesses the power of deep learning models, which mimic the human brain's learning (neural networks) and decision-making processes. 
+
+Gen AI approaches
+- Generative Adversarial Networks (GANs)
+- Variational Autoencoders (VAEs)
+- Large Language Models (LLMs)
+
+## Foundation Models (FMs)
+Recent advancements have led to generative models capable of producing high-quality, realistic images, music, and text. These breakthroughs are largely due to FMs, a type of LLM that learns from extensive datasets. These FMs are pre-trained on massive datasets through self-supervised learning methods. They are referred to as "foundation" models because they provide a robust base for downstream applications by learning generalizable patterns and representations. Typically, FM consist of numerous layers and parameters, enabling them to capture complex relationships between input data and output predictions.
+
+## Popular FMs
+Foundation models (FMs) are regularly fine-tuned and updated multiple times a year to enhance their performance. Based on how-accessed, they can be "open" foundation models (accessible to the public, often with open-source code), "closed" foundation models (restricted access, proprietary code), and "limited" foundation models (partially accessible, with controlled usage through APIs or specific access tiers).
+
+| Company | FM | Web Link |
+|:--------|:--------|:--------|
+| AI21 Labs   | Jamba   | ![](https://ai21.com/jamba/) |
+| Alibaba Cloud | Qwen    | ![](https://www.alibabacloud.com/product/qwen) |
+| Anthropic   | Claude  | ![](https://anthropic.com/claude/) |
+| Amazon    | Nova | ![](https://aws.amazon.com/ai/generative-ai/nova) |
+| Cohere    | Command  | ![](https://cohere.ai/command) |
+| Google | Gemini | ![](https://ai.google/get-started/our-models/)  |
+| Meta    | Llama    | ![](https://ai.meta.com/resources/models-and-libraries/#models) |
+| Microsoft | Phi  | ![](https://ai.azure.com/explore/models?selectedCollection=phi) |
+| Mistral AI_ | Mistral |  ![](https://docs.mistral.ai/getting-started/models/models_overview/) |
+| OpenAI   | GPT  | ![](https://platform.openai.com/docs/models) |
+| Anthropic   | Claude 2.0 | ![](https://anthropic.com/claude-2.0/) |
+| Stability AI | Stable Diffusion | ![](https://stability.ai/stable-image) |
+
+
+## Enterprise Use Case/s
+- Code: generation, completion, translation, explaining, bug detection/fix
+- Chat: text/voice, customer support, virtual assistant
+- Search: contextual, personalized, answering
+- Text: generation, summarization, extraction, rephrase
+- Image:generation, classification
+- Audio: generation, ...
+- Video: generation, ...
+
+## Limitations of FMs
+- Hallucination (no accuracy of output)
+- Bias (from underlying training data)
+- Infringement (Copyright/IP)
+
+## Overcoming Limitations
+New content (text, code, audio/video) generation can be useful for brainstorming and fostering creativity, FMs generally require guidance to accomplish specific tasks in enterprise setting. 
+
+- **Fine tuning**: Using the base model’s previous knowledge as a starting point, fine-tuning tailors the model by tuning it with a smaller, task-specific dataset. This process changes the parameter weights for a model whose weights were set through prior training to optimize the model for a task.
+
+- **Prompt tuning: Adjusts the content of the prompt that is passed to the model to guide the model to generate output that matches a pattern you specify. The underlying foundation model and its parameter weights are not changed. Only the prompt input is altered.
+
+- **Retrieval-augmented generation** (RAG): a framework that combines LLMs with information retrieval systems (e.g. Enterprise data, Knowledge base, source repository) to improve the accuracy and relevance of Gen AI responses. RAG helps by grounding (ability to connect model output to verifiable sources of information) Gen AI outputs in factual data, reducing the risk of misinformation and biased results.
+
+- **Reinforcement learning (RLHF)**: uses human feedback to optimize models and make outcomes accurate.
+
+## Costs Considerations
+Many organizations begin by experimenting with Gen AI without fully accounting for the true cost of ownership, particularly computing costs. As they scale or transition to production, the expenses can become a significant concern, even prompting executives to cancel or delay their initiatives due to cost concerns.
+
+Developing a thorough business case and return on investment (ROI) analysis is essential for both the experimental and production phases of any Gen AI project. This critical step helps ensure that your initiative is aligned with business objectives, financially viable, and sets realistic expectations for outcomes.
+
+Another potential solution for managing compute costs is using a hybrid cloud approach. Alternatively, utilizing task-specific Fine-tuned Models (FMs) or **Small Language Models** (SLMs) can be an efficient option. These smaller models require less memory and computation power compared to Large Language Models (LLMs), making them suitable for deployment on edge devices, mobile apps, or offline environments without a data network.
+
+## Selection Criteria
+- Quantifiable Return on investment (ROI)
+- Customizable for the enterprise
+- Performance, accuracy
+- Integration with existing IT systems
