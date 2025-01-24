@@ -27,7 +27,7 @@ Recent advancements have led to generative models capable of producing high-qual
 
 | Company | FM | Link |
 |:--------|:--------|:--------|
-| AI21 Labs | Jamba | ![AI21 Labs Jamba](https://www.ai21.com) |
+| AI21 Labs | Jamba | [AI21 Labs Jamba](https://www.ai21.com) |
 | Alibaba Cloud | Qwen | |
 | Anthropic | Claude  | |
 | Amazon | Nova | |
