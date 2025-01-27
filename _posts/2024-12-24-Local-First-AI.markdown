@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to run LLMs locally, without subscribing to paid plans"
+title:  "Run LLMs locally, without subscribing to paid plans"
 date:  2024-12-24 12:20:26 -0700
 categories: [Technology]
 tags: [revenue growth, cost optimization]
