@@ -108,5 +108,7 @@ Enterprises are seeing tremendous improvement in software coding productivity by
 - Actions to establish shortcuts for common use cases
 
 **Coding Assistant Example:** Create a blog site
+At the Continue prompt in VS Code, type `Using HTML, CSS, JScript suggest setting up a blog site` and press Enter. Continue will generate code for you based on your requirements. The generated code includes HTML, CSS, JavaScript, and other set up instructions to create a blog site. You can then open the generated code in VS Code and start building your blog site. Continue also provides features such as refactoring, debugging, and testing to help you improve your coding skills. It is a powerful tool for developers who want to save time and increase their productivity by using LLMs.
+
 
 ![Code Generation](https://ketanhm.github.io/images/codegen.png){: w="700" h="400" }
