@@ -29,7 +29,9 @@ It’s an open-source tool and one of the most active inference server in the op
 Ollama runs as a native Windows application (wsl not needed), and has support for NVIDIA and AMD Radeon GPU.
 
 Set up instructions at: [Ollama](https://www.ollama.com)
+
 List of models available for download on [Models Library](https://www.ollama.com/library)
+
 [1/25/2025 update], Deepseek-r1 is among the most popular with 1.4MN+ pulls
 
 
@@ -107,4 +109,4 @@ Enterprises are seeing tremendous improvement in software coding productivity by
 
 **Coding Assistant Example:** Create a blog site
 
-![Code Generation](https://ketanhm.github.io/images/api2.png){: w="700" h="400" }
+![Code Generation](https://ketanhm.github.io/images/codegen.png){: w="700" h="400" }
