@@ -29,8 +29,9 @@ With a deep understanding of industry contexts and technology, I lead crafting s
 
 
 ## Certifications
-- UI Path - Sales Foundations Partners
-- AWS - Certified Cloud Practioner
+- AWS - Certified AI Practitioner
+- AWS - Certified Cloud Practitioner
+- UIPath - Sales Foundations Partners
 - Postman - API Engineer Learning Path
 - Mortgage Bankers Association - Introduction to Mortgage Banking
 - Mortgage Bankers Association - Loan Production Basics
