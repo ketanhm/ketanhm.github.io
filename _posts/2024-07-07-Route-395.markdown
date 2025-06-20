@@ -34,7 +34,3 @@ Mono Lake is a majestic body of water spanning about 65 square miles. This ancie
 **[Ancient Bristlecone Pine Forest](https://www.fs.usda.gov/recarea/inyo/recarea/?recid=70821)**
 High in the White Mountains, at an elevation of around 10,000 feet, you’ll find some of the oldest living trees on Earth, dating back over 4,000 years. These ancient trees are characterized by their weathered, twisted forms and beautifully colored wood.
 
-**[Manzanar National Historic Site](https://www.nps.gov/manz/index.htm)**
-A war relocation center - Remembering Manzanar, gives a sense of the place and its past, and a glimpse into a time when American citizens were exiled because of their ancestry.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Spo1Khmp2U4?si=1Umm5lithjYvgAhI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
