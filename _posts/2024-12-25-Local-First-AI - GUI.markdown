@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Running LLMs locally, without subscribing to paid plans via GUI"
+title:  "Running LLMs locally, without subscribing to paid plans using GUI"
 date:  2024-12-25 12:20:26 -0700
 categories: [Technology]
 tags: [revenue growth, cost optimization]
