@@ -62,7 +62,7 @@ New content (text, code, audio/video) generation can be useful for brainstorming
 
 - **Fine tuning**: Using the base model’s previous knowledge as a starting point, fine-tuning tailors the model by tuning it with a smaller, task-specific dataset. This process changes the parameter weights for a model whose weights were set through prior training to optimize the model for a task.
 
-- **Prompt tuning: Adjusts the content of the prompt that is passed to the model to guide the model to generate output that matches a pattern you specify. The underlying foundation model and its parameter weights are not changed. Only the prompt input is altered.
+- **Prompt tuning**: Adjusts the content of the prompt that is passed to the model to guide the model to generate output that matches a pattern you specify. The underlying foundation model and its parameter weights are not changed. Only the prompt input is altered.
 
 - **Retrieval-augmented generation** (RAG): a framework that combines LLMs with information retrieval systems (e.g. Enterprise data, Knowledge base, source repository) to improve the accuracy and relevance of Gen AI responses. RAG helps by grounding (ability to connect model output to verifiable sources of information) Gen AI outputs in factual data, reducing the risk of misinformation and biased results.
 
