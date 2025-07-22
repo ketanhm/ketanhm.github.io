@@ -18,7 +18,7 @@ Earlier times businesses doing data analysis post-facto was sufficient. Today th
 
 Businesses are putting their data to work in order to acquire customer **lower CAC**, improve customer experiences **high NPS**, streamline operations **higher margin**.
 
-- [X] Some of the data use cases that help grow profitable revenues are:
+**Some of the data use cases that help grow profitable revenues are:**
 - [X] Effective Promotions & ROI
 - [X] Better pricing based on customer behavior and real-time analysis
 - [X] Improved customer propensity analysis & targeted marketing
