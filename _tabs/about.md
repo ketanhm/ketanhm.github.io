@@ -4,22 +4,20 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-As a Senior Client leveraging cutting-edge digital technologies, I help client initiatives to accelerate revenue growth, shorten cycle , reduce costs, and meet regulatory compliance.
+As a seasoned Senior Client Partner, I empower clients to drive business outcomes through the strategic application of cutting-edge digital technologies. My expertise lies in accelerating revenue growth, streamlining processes, and reducing costs while ensuring regulatory compliance.
 
-I excel in trusted consulting, nurturing and managing executive customer relationships, and delivering comprehensive digital transformation programs.
+I excel in building trusted relationships with executive clients, providing tailored consulting services that address their unique needs. By combining industry acumen with technical know-how, I craft comprehensive digital transformation programs that align seamlessly with clients' objectives.
+
+My guiding principles for delivering exceptional client success are:
 
 
-With a deep understanding of industry contexts and technology, I lead crafting solutions that align with clients’ objectives. 
+**1. Keeping the client focus:** Be client advocate to internal leadership(suppliers’) and keep business focus. Sync to client objectives. Be the bridge between client requirement and delivery organization
 
-**Ensuring partnerships succeeds**
+**2. Being Agile:** Adapt to changing requirement within contractually limits. Don’t underestimate technology (new) challenges. Factor time and resources for experimentation on new tech/tools
 
-**Keeping the client focus:** Be client advocate to internal leadership(suppliers’) and keep business focus. Sync to client objectives. Be the bridge between client requirement and delivery organization
+**3. Build global Team & lead for Success:** Make case to staff right skilled resources(global, matrixed org), align teams to client objectives/tech requirements, plan for unexpected personnel changes/backups
 
-**Being Agile:** Adapt to changing requirement within contractually limits. Don’t underestimate technology (new) challenges. Factor time and resources for experimentation on new tech/tools
-
-**Build Team and lead for Success:** Make case to staff right skilled resources(global, matrixed org), align teams to client objectives/tech requirements, plan for unexpected personnel changes/backups
-
-**Keep an oversight on Project/Program:** Do proactive planning, ensure not overcommitting / unrealistic schedules. Bring to client notice any plan deviations (& mitigation steps) as soon as identified
+**4. Keep an oversight on Project/Program:** Do proactive planning, ensure not overcommitting / unrealistic schedules. Bring to client notice any plan deviations (& mitigation steps) as soon as identified
 
 
 ## Trainings
@@ -31,6 +29,7 @@ With a deep understanding of industry contexts and technology, I lead crafting s
 ## Certifications
 - AWS - Certified AI Practitioner
 - AWS - Certified Cloud Practitioner
+- NACD - How to Be(come) a Director
 - UIPath - Sales Foundations Partners
 - Postman - API Engineer Learning Path
 - Mortgage Bankers Association - Introduction to Mortgage Banking
