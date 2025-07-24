@@ -13,11 +13,11 @@ The role of the Chief Information Officer (CIO) has evolved far beyond managing 
 
 "Today’s" CIOs wear many hats, combining technical leadership with strategic foresight.
 
-**CIO Responsibilities**
+👑 **CIO Responsibilities**
 
 ![CIO Roles Infographics](https://ketanhm.github.io/images/cio.gif){: w="700" h="700" }
 
-**Business Impact**
+💸 **Business Impact**
 
 ![CIO Business Impact](https://ketanhm.github.io/images/impact.png){: w="700" h="700" }
 
@@ -33,5 +33,6 @@ Services comprise personnel providing IT Operations (ITOps), helpdesk Support, A
 💼 **Portfolio Asset Allocation to meet Strategic Purpose**
 
 ![CIO Portfolio Allocation](https://ketanhm.github.io/images/cio-allocation.png){: w="700" h="700" }
+
 
 PS: The above infographics were generated utilizing artificial intelligence (AI) tools.
