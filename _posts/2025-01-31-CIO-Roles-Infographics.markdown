@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Multiple mandates that CIO's meets"
+title:  "From Tech Stewards to Business Catalyst:The CIO's Evolving Mandates"
 date:  2025-01-31 12:20:26 -0700
 categories: [CIO]
 tags: [revenue growth, cost optimization]
