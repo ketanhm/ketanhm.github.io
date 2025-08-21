@@ -18,7 +18,7 @@ My guiding principles for delivering exceptional client success are:
 
 **4. Keep an oversight on Project/Program:** Do proactive planning, ensure not overcommitting / unrealistic schedules. Bring to client notice any plan deviations (& mitigation steps) as soon as identified
 
-**🌟 Summmary of my Role & Responsibilities**
+**🌟 Summary of my Role & Responsibilities**
 
 As a client partner, the role encompasses driving executive-level engagement and fostering long-term client relationships to support business growth and customer satisfaction. 
 
