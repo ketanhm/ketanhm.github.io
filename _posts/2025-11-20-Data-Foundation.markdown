@@ -58,7 +58,7 @@ Achieving AI maturity starts with establishing a robust data foundation. Through
 
 
 **Related Content & Sources:**
-**1. ([AWS: Ultimate Guide to Building a Data Foundations](https://d1.awsstatic.com/psc-digital/2024/gc-600/ult-guide-tdm/ultimate-guide-to-building-a-data-foundation.pdf))**
+**1. [AWS: Ultimate Guide to Building a Data Foundations](https://d1.awsstatic.com/psc-digital/2024/gc-600/ult-guide-tdm/ultimate-guide-to-building-a-data-foundation.pdf)**
 
 AI generated Summary: 
 To build a strong data foundation in the generative AI era, organizations must prioritize scalability, integration, and intelligence.
@@ -69,7 +69,7 @@ To build a strong data foundation in the generative AI era, organizations must p
 - Robust governance and security frameworks ensure responsible data access, privacy, and compliance at scale
 - Case studies from BMW, ADP, and ENGIE highlight real-world success in transforming operations and innovation
 
-**2. ([Microsoft: Unified and AI Powered Data Estate with Microsoft Fabric](https://azure.microsoft.com/en-us/blog/microsoft-databases-and-microsoft-fabric-your-unified-and-ai-powered-data-estate/)**
+**2. [Microsoft: Unified and AI Powered Data Estate with Microsoft Fabric](https://azure.microsoft.com/en-us/blog/microsoft-databases-and-microsoft-fabric-your-unified-and-ai-powered-data-estate/)**
 
 AI generated Summary: 
 Microsoft is unifying its data services through Microsoft Fabric and Azure databases to power AI-driven innovation.
@@ -80,7 +80,7 @@ Microsoft is unifying its data services through Microsoft Fabric and Azure datab
 - Unified governance and security ensure compliance and trust across the entire data estate
 - This approach empowers organizations to modernize legacy systems, accelerate development, and unlock the full potential of their data for AI
 
-**3. ([Google Cloud: 5 Steps to Build Strong Data Foundations for GenAI ](https://cloud.google.com/transform/how-to-build-strong-data-foundations-gen-ai)**
+**3. [Google Cloud: 5 Steps to Build Strong Data Foundations for GenAI ](https://cloud.google.com/transform/how-to-build-strong-data-foundations-gen-ai)**
 
 AI generated Summary: 
 To build strong data foundations for generative AI, organizations must adopt a strategic, scalable approach.
@@ -91,7 +91,7 @@ To build strong data foundations for generative AI, organizations must adopt a s
 - Implement robust governance and security, ensuring data quality, compliance, and protection across the lifecycle
 - Optimize for efficiency and cost, leveraging managed services and cloud FinOps to scale AI initiatives sustainably
 
-**4. ([CIO.com: Building Data Foundations for AI Explorations ](https://www.cio.com/article/4036547/how-to-build-data-foundations-for-ai-exploration.html)**
+**4. [CIO.com: Building Data Foundations for AI Explorations ](https://www.cio.com/article/4036547/how-to-build-data-foundations-for-ai-exploration.html)**
 
 AI generated Summary: 
 To build effective data foundations for AI, CIOs must prioritize agility, scalability, and strategic alignment.
