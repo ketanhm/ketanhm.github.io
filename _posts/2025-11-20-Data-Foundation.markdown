@@ -40,7 +40,7 @@ AI offers transformative potential in automation, insight generation, and innova
 - Use data lakehouse to unify structured and unstructured data for model training
 - Leverage semantic layers and feature stores to standardize inputs for AI models
 
-## -Goal: Make AI accessible, trusted, and actionable across the enterprise_
+## _Goal: Make AI accessible, trusted, and actionable across the enterprise_
 ### 4. Democratize AI and Analytics
 - Empower business users with self-service tools
 - Implement data catalogs and lineage tools for transparency
