@@ -75,7 +75,7 @@ To build a strong data foundation in the generative AI era, organizations must p
 ### AI generated Summary: 
 Microsoft is unifying its data services through Microsoft Fabric and Azure databases to power AI-driven innovation.
 
-- MicrosoftFabric integrates data engineering, warehousing, real-time analytics, and business intelligence into a single SaaS platform, streamlining data workflows
+- Microsoft Fabric integrates data engineering, warehousing, real-time analytics, and business intelligence into a single SaaS platform, streamlining data workflows
 - Azure databases like Cosmos DB, SQL, and PostgreSQL now offer deeper integration with Fabric, enabling seamless data movement and real-time insights
 - Copilot experiences are embedded across services, allowing users to interact with data using natural language and generate AI-powered insights
 - Unified governance and security ensure compliance and trust across the entire data estate
