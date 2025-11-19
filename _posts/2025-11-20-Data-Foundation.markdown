@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Laying the Groundwork: Building Data Foundations for the AI-Powered Future"
-date:  2025-11-20 12:20:26 -0700
+date:  2025-11-19 12:20:26 -0700
 categories: [Technology]
 tags: [revenue growth, cost optimization]
 description: Essential building blocks for a modern, AI-ready data estate — from cloud-native platforms and real-time pipelines to governance, integration, and security.
