@@ -4,7 +4,7 @@ title:  "Information Technology in Manufacturing"
 date:  2014-05-10 12:20:26 -0700
 categories: [Technology]
 tags: [hitech-manufacturing, revenue growth, cost optimization]
-description: Social, Mobile, Analytics, and Cloud are key part of Industry 4.0 strategy. It in manufacturing covers entire produce lifecycle, from R&D to Manufacturing to sales and service. 
+description: Social, Mobile, Analytics, and Cloud are key part of Industry 4.0 strategy. It covers entire produce lifecycle, from R&D to Manufacturing to sales and service. 
 toc: false
 pin: 
 comments: true

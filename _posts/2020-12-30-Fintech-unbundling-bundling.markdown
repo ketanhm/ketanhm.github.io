@@ -19,7 +19,7 @@ BFSI were driving to become **Universal Financial Service Provider** -- all in o
 
 ![Universal FSI](https://ketanhm.github.io/images/bfsi.png){: w="700" h="400" }
 
-* Providers strived to offer bundled products and services on disparate, legacy platforms
+* Providers strived to offer bundled products and services on disparate, legacy platforms,
 Individual LOB platforms, individual consumer facing SoR, few common Platforms, LOB infra platforms - structured around bank’s delivery channels
 
 * FANG++ set consumer's digital expectations

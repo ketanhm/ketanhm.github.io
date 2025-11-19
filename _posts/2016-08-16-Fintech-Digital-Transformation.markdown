@@ -19,7 +19,7 @@ Banks revenues are falling due to:
 * Allocate more reserve capital / Basel II..III..
 * fintech chipping away on their fee based incomes
 
-To keep their margins, banks have to increase fees, and drop customer service (no face banker). This is resulting in customers easily adopting fintech companies. When Millennia’s need a financial service, by habit they ‘Google’ and guess which companies show up in search results – fintech.
+To keep their margins, banks have to increase fees, and drop customer service (no face banker). This is resulting in customers easily adopting fintech companies. When Millennial’s need a financial service, by habit they ‘Google’ and guess which companies show up in search results – fintech.
 
 Segments of financial services and representative fintech companies are:
 
