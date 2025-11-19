@@ -22,26 +22,26 @@ AI offers transformative potential in automation, insight generation, and innova
 
 ## 🧱 Four Pillars of a Modern AI-Ready Data Foundation
 
-_**Goal: Reduce latency and tech debt while unlocking cloud scalability**_
-## 1. Modernize Your Data Estate
+## _Goal: Reduce latency and tech debt while unlocking cloud scalability_
+### 1. Modernize Your Data Estate
 - Retire legacy systems and consolidate fragmented on-prem environments
 - Adopt cloud-native storage and compute for scalability and agility
 - Enable real-time ingestion via streaming tools
 
-_**Goal: Align data strategy with business goals and AI ambitions**_
-## 2. Assess and Envision Future State
+## _Goal: Align data strategy with business goals and AI ambitions_
+### 2. Assess and Envision Future State
 - Conduct a data maturity assessment across structure, quality, and accessibility
 - Define a target architecture aligned with AI use cases—e.g., predictive analytics, GenAI copilots, intelligent search
 - Build a roadmap that includes governance, metadata management, and semantic modeling
 
-_**Goal: Enable scalable, reusable AI across domains and applications**_
-## 3. Innovate with AI and Cloud-Native Services
+## _Goal: Enable scalable, reusable AI across domains and applications_
+### 3. Innovate with AI and Cloud-Native Services
 - Integrate ML and GenAI capabilities into applications using cloud AI Services
 - Use data lakehouse to unify structured and unstructured data for model training
 - Leverage semantic layers and feature stores to standardize inputs for AI models
 
-_**Goal: Make AI accessible, trusted, and actionable across the enterprise**_
-## 4. Democratize AI and Analytics
+## -Goal: Make AI accessible, trusted, and actionable across the enterprise_
+### 4. Democratize AI and Analytics
 - Empower business users with self-service tools
 - Implement data catalogs and lineage tools for transparency
 - Promote data literacy and governance through training and policy enforcement
